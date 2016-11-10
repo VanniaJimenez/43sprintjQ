@@ -20,8 +20,8 @@ $(document).ready(function(){
 		$("#flor").css("width" , 1000);
 	});
 
-	$("#flores").mouseenter(function(){
-		$("#flores").hover();
+	$(".floress").mouseenter(function(){
+		$(".floress").remove();
 	});
 	
 
