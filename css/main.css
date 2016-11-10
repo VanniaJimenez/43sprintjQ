@@ -1,0 +1,253 @@
+/* Inserta tu codigo aqui */
+.morado {
+ 	background-color: #32213A;
+ 	margin-top: -9%;
+  
+ }
+
+
+/*HEADER*/
+ 
+
+.logo {
+	width: 48%;
+	height: 33%;
+	margin:2% 0% 2% 30%;
+}
+
+li{
+	display: inline-block;
+	margin:3% 0% 2% 0%;
+
+}
+.left {
+	margin-left: 30%
+}
+
+a {
+	text-decoration: none;
+}
+
+i {
+	color:white;
+}
+
+/*SECTION1*/
+.flor {
+	background-image: url(../image/image2.jpg);
+	background-repeat: no-repeat;
+	height: 50%;
+	margin: 15% 0% 2% 0%;
+	background-size: cover;
+	width: 103%;
+	
+}
+
+.cuadro {
+	background-color: #221D23;
+	width: 60%;
+	margin: 10%;
+	margin-left:20%
+
+}
+
+.nara{
+	color: #FFC145;
+	font-family: 'Courgette';
+}
+.blanco{
+	color: white;
+}
+
+h1 {
+	padding: 7% 0% 0% 15%;
+}
+
+.letra {
+	font-size: 6em;
+}
+
+.life{
+	padding: 2% 0% 6% 30%;
+
+}
+.espacio {
+	padding: 3% 0% 0% 3%
+}
+
+.centro {
+	text-align: center;
+}
+
+.abajo {
+	padding-bottom: 7%;
+}
+
+/*SECTION2*/
+.pro {
+	width: 105%;
+	height: 100;
+	margin-top: 4%;
+
+}
+.doss {
+	margin-left: 1%;
+}
+
+.dos {
+	margin-left: -2%;
+}
+
+.peq {
+	background-color: #221D23;
+	width: 105%;
+}
+
+/* SECTION3*/
+
+.img {
+	width: 75%;
+	height: 70%;
+	margin-top: 4%;	
+	margin-left: 13%;
+}
+
+input {
+	border-style: none;
+	width: 40%;
+	height:15%; 
+	padding: 2%;
+	border-radius: 10px;
+	background-color: #32213A;
+
+}
+
+form {
+	padding: 4%;
+	margin: 4%;
+	width: 209%;
+	color: white;
+	font-size: 120%;
+}
+
+.cajita {
+	background-color:#221D23;
+	width: 105%;
+	margin-top: 12%;
+	margin-left: -13%;
+	border-radius: 12px;
+}
+
+.cajas { 
+	background-color: #221D23;
+	width: 75%;
+	margin-left: 13%;
+
+
+}
+
+.cajav{
+	max-width: 560px;
+    margin:auto;
+
+}
+
+.vid{
+
+    height:0px;
+    width:100%;
+    max-width:560px;
+    padding-top:56.25%;
+    position:relative;
+
+}
+
+
+iframe {
+	  position:absolute;
+    height:100%;
+    width:100%;
+    top:0px;
+    left:0px;
+}
+
+.muc{
+	width: 100%; 
+	margin-left:-17%;
+	margin-top: -5%
+}
+
+.caj {
+	background-color:#221D23;
+	width: 100%;
+	margin-top: -95%;
+	margin-left: -17%;
+}
+
+.es {
+	padding:5%;
+}
+
+.cajo {
+	background-color:#221D23;
+	width: 100%;
+	margin-left: -17%; 
+
+}
+.cajs {
+	background-color:#221D23;
+	width: 79%
+	margin-left:30%;
+
+}
+
+.margen {
+	margin-left: 30%;
+
+}
+
+.iconitosp {
+	border-radius: 50%;
+	background-color: white;
+	padding: 4%;
+
+}
+
+.pop {
+	margin-left: 40%
+}
+
+
+
+/*FOOTER*/
+.pad {
+	padding: 2%;
+}
+
+.black {
+ 	background-color: #221D23;
+ }
+
+
+/* Responsive */
+
+@media screen and (max-width : 920px) {
+
+}
+
+@media screen and (max-width: 600px) {
+
+}
+
+@media (max-width:400px) {
+	[class*="letra"] {
+		font-size: 3em;
+
+} 
+	[class*="cuadro"] {
+		width: 79%;
+		margin-left:10%;
+	}
+
+}
+
